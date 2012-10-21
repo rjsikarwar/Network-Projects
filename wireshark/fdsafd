@@ -1,0 +1,88 @@
+1. CompalIn_db:6c:a2 Who has 10.12.0.254? Tell 10.12.2.39
+2. JetwayIn_a7:78:b4 Who has 10.12.0.254? Tell 10.12.1.17
+3. CompalIn_04:b8:5c Who has 10.12.2.39? Tell 10.12.20.42
+4. CompalIn_04:b8:5c Who has 10.12.3.42? Tell 10.12.20.42
+5. Dell_ea:cc:e6
+Who has 10.12.2.39? Tell 10.12.3.59
+6. CompalIn_db:6c:a2 Who has 10.12.0.254? Tell 10.12.2.39
+7. Dell_ee:42:60
+Who has 10.12.0.254? Tell 10.12.1.6
+8. CompalIn_db:6c:a2 Who has 10.12.0.254? Tell 10.12.2.39
+9. Sony_f2:90:f5
+Who has 10.12.0.254? Tell 10.12.3.45
+10. QuantaCo_5d:d6:03 Who has 10.12.0.254? Tell 10.12.1.47
+11. Sony_84:60:af
+Who has 10.10.3.15? Tell 10.12.13.84
+12. Enterasy_38:95:19 QuantaCo_e7:3e:9a
+10.12.0.41? Tell 10.12.0.254
+ARP
+60
+Who has
+13. Enterasy_38:95:19 Who has 10.12.0.41? Tell 10.12.0.254
+14. CompalIn_04:b8:5c Who has 10.12.0.11? Tell 10.12.20.42
+15. CompalIn_a8:f6:e6 Who has 10.12.3.42? Tell 10.12.0.11
+16. Sony_84:60:af
+Who has 10.12.0.11? Tell 10.12.13.84
+17. CompalIn_a8:f6:e6 Who has 10.12.20.42? Tell 10.12.0.11
+18. Elitegro_03:f9:81 Who has 10.12.0.11? Tell 10.12.0.21
+19. Dell_03:84:8f
+Who has 10.12.0.11? Tell 10.12.13.89
+20. CompalIn_db:6c:a2 Who has 10.12.0.254? Tell 10.12.2.39
+21. CompalIn_04:b8:5c Who has 10.12.0.254? Tell 10.12.20.42
+22. Dell_ea:cc:e6
+Who has 10.12.20.42? Tell 10.12.3.59
+23. Sony_84:60:af Who has 10.10.23.49? Tell 10.12.13.84
+24. Sony_84:60:af Who has 10.10.3.15? Tell 10.12.13.84
+25. Hewlett-_d8:e7:e7 Who has 10.12.0.254? Tell 10.12.11.69
+26. CompalIn_04:b8:5c Who has 10.12.11.69? Tell 10.12.20.42
+27. Dell_ea:cc:e6 Who has 10.12.11.69? Tell 10.12.3.59
+28. Sony_84:60:af Who has 10.8.2.16? Tell 10.12.13.84
+29. CompalIn_db:6c:a2 Who has 10.12.0.21? Tell 10.12.2.39
+30. Elitegro_03:f9:81 Who has 10.12.2.39? Tell 10.12.0.21
+31. Hewlett-_37:f5:42 Who has 10.12.0.254? Tell 10.12.2.31
+32. CompalIn_04:b8:5c Who has 10.12.2.31? Tell 10.12.20.42
+33. Dell_3e:63:e2 Who has 10.12.0.254? Tell 10.12.1.86
+34. Dell_a1:7f:04 Who has 10.12.0.254? Tell 10.12.2.33
+35. CompalIn_04:b8:5c Who has 10.12.0.254? Tell 10.12.20.42
+36. Hewlett-_37:f5:42 Who has 10.12.0.254? Tell 10.12.2.31
+37. CompalIn_04:b8:5c Who has 10.12.10.83? Tell 10.12.20.42
+38. QuantaCo_8e:bd:a3 Who has 10.12.11.60? Tell 0.0.0.0
+39. QuantaCo_8e:bd:a3 Who has 10.12.11.60? Tell 0.0.0.0
+40. Hewlett-_db:ed:a1 Who has 10.12.2.14? Tell 0.0.0.0
+41. QuantaCo_8e:bd:a3 Who has 10.12.11.60? Tell 0.0.0.0
+42. Hewlett-_db:ed:a1 Who has 10.12.2.14? Tell 0.0.0.0
+43. Hewlett-_db:ed:a1 Who has 10.12.2.14? Tell 0.0.0.0
+44. QuantaCo_8e:bd:a3 Who has 10.12.0.254? Tell 10.12.11.60
+45. QuantaCo_8e:bd:a3 Who has 10.12.0.254? Tell 10.12.11.60
+46. QuantaCo_8e:bd:a3 Who has 10.12.0.254? Tell 10.12.11.60
+47. Hewlett-_d8:e7:e7 Who has 10.12.0.254? Tell 10.12.11.69
+48. QuantaCo_8e:bd:a3 Who has 10.12.3.59? Tell 10.12.11.60
+49. Dell_ea:cc:e6
+Who has 10.12.11.60? Tell 10.12.3.59
+50. QuantaCo_8e:bd:a3 Who has 10.12.0.254? Tell 10.12.11.60
+51. CompalIn_04:b8:5c Who has 10.12.11.69? Tell 10.12.20.42
+52. QuantaCo_8e:bd:a3 Who has 10.12.0.254? Tell 10.12.11.60
+53. CompalIn_9c:d7:6a Who has 10.12.11.60? Tell 10.12.2.49
+54. Hewlett-_d8:e7:e7 Who has 10.12.2.14? Tell 10.12.11.69
+55. Hewlett-_db:ed:a1 Who has 10.12.0.254? Tell 10.12.2.14
+56. Hewlett-_db:ed:a1 Who has 10.12.0.254? Tell 10.12.2.14
+57. CompalIn_04:b8:5c Who has 10.12.11.60? Tell 10.12.20.42
+58. Hewlett-_37:f5:42 Who has 10.12.0.254? Tell 10.12.2.31
+59. Sony_84:60:af
+Who has 10.12.11.60? Tell 10.12.13.84
+60. Elitegro_03:f9:81 Who has 10.12.11.60? Tell 10.12.0.21
+61. Hewlett-_db:ed:a1 Who has 10.12.0.254? Tell 10.12.2.14
+62. Hewlett-_db:ed:a1 Who has 10.12.0.254? Tell 10.12.2.14
+63. Dell_03:84:8f
+Who has 10.12.11.60? Tell 10.12.13.89
+64. Hewlett-_db:ed:a1 Who has 10.12.0.254? Tell 10.12.2.14
+65. CompalIn_a8:f6:e6 Who has 10.12.20.42? Tell 10.12.0.11
+66. MitacTec_00:1a:a0 Who has 10.12.0.254? Tell 10.12.11.73
+67. Sony_84:60:af
+Who has 10.10.22.8? Tell 10.12.13.84
+68. Hewlett-_37:f5:42 Who has 10.12.0.254? Tell 10.12.2.31
+69. CompalIn_04:b8:5c Who has 10.12.1.86? Tell 10.12.20.42
+70. Sony_67:0e:a7
+Who has 10.12.0.254? Tell 10.12.10.55
+71. CompalIn_04:b8:5c Who has 10.12.10.83? Tell 10.12.20.42
+s
